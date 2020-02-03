@@ -1,0 +1,151 @@
+body{
+	background-color: #009432;
+	color:white;
+	font-family: calibri;
+}
+.start{
+	margin-left: 40px;
+	font-size: 20px;
+
+}
+header{
+	display: flex;
+}
+.right-header {	
+	align-self: center;
+	margin-left: auto;
+	margin-right: 40px;
+}
+.main-box{
+	
+	width:90vw;
+	height: 70vh;
+	position:relative;
+	
+	left:50px;
+	display: flex;
+	justify-content: space-between;
+
+}
+.box-1{
+	
+	width:55vw;
+	height:70vh;
+	display: flex;
+	flex-wrap:wrap;
+	justify-content: space-between;
+	align-items: flex-start;
+}
+.box-2{
+	
+	width:25vw;
+	height: 70vh;
+
+}
+.box-1 div{
+display:flex;
+align-items: flex-end;
+
+}
+.desktop{
+	background-color: #1289A7;
+	width:35%;
+	height:25%;
+	
+
+}
+.setting{
+	background-color: #EE5A24;
+	width:35%;
+	height:25%;
+}
+.camera{
+	background-color: #EA2027;
+	width:25%;
+	height:25%;
+}
+.favorites{
+	background-color: #4cd137;
+	width:20%;
+	height:25%;
+
+}
+.twitter{
+	background-color: #00a8ff;
+	width:20%;
+	height:25%;
+}
+.places{
+	background-color: #fbc531;
+	width:20%;
+	height:25%;
+}
+.gallery{
+	background-color: #B53471;
+	width:35%;
+	height:25%;
+}
+.browser{
+	background-color: #EA2027;
+	width:20%;
+	height:25%;;
+}
+.email{
+	background-color: #EE5A24;
+	width:20%;
+	height:25%;
+}
+.calender{
+	background-color: #1289A7;
+	width:35%;
+	height:25%;
+}
+.skydrive{
+	background-color: #4cd137;
+	width:20%;
+	height:25%;
+}
+.box-2{
+	display:flex;
+	flex-wrap:wrap;
+	align-items: flex-start;
+	justify-content: space-between;
+
+}
+.box-2 div{
+	display: flex;
+	align-items:flex-end;
+}
+.facebook{
+	background-color: #1289A7;
+	width:48%;
+	height:30%;
+}
+.facetime{
+	background-color: #00a8ff;
+	width:48%;
+	height:30%;
+}
+.task{
+	background-color: #EA2027;
+	width:48%;
+	height:30%;
+}
+.windows{
+	background-color: #B53471;
+	width:48%;
+	height:30%;
+}
+.media{
+	background-color: #fbc531;
+	width:100%;
+	height:30%;
+}
+.box-2 div span{
+	margin-left: 10px;
+	margin-bottom:5px;
+}
+.box-1 div span{
+	margin-left:10px;
+	margin-bottom:5px;
+}
